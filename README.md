@@ -28,7 +28,7 @@ Solo haz **doble clic en `index.html`** — abre en el navegador sin instalar na
 - **Dirección:** 85 Grand Canal Dr, Suite 203, Miami, FL 33144
 - **Teléfono:** 786-536-7816 · **Fax:** 786-550-2331
 - **Email:** Adm.masterhealthcare@gmail.com (y masterhealthcare1710@gmail.com)
-- **Horario configurado:** Lun–Vie 9:00 AM – 5:00 PM  *(confirmar el real)*
+- **Horario configurado:** Lun–Vie 9:00 AM – 4:30 PM  *(confirmar el real)*
 
 ---
 
