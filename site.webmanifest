@@ -1,0 +1,12 @@
+{
+  "name": "Master Health Care Center LLC",
+  "short_name": "Master Health Care",
+  "description": "Compassionate mental & behavioral health care in Miami, FL. Bilingual English/Spanish.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#313745",
+  "icons": [
+    { "src": "/assets/img/logo.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
