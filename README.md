@@ -78,7 +78,7 @@ IntakeQ, o un endpoint propio con BAA). El código está aislado en `assets/js/m
 ### Pasos para SALIR EN GOOGLE (hacer después de publicar)
 1. **Comprar dominio** (ej. `masterhealthcaremiami.com`) y **publicar** el sitio
    (Netlify, Vercel, Hostinger o GoDaddy — gratis/barato). Actualizar todas las URLs
-   `https://www.masterhealthcaremiami.com/` en `index.html`, `sitemap.xml`, `robots.txt`.
+   `https://masterhealthcaremiami.com/` en `index.html`, `sitemap.xml`, `robots.txt`.
 2. **Google Business Profile** (lo más importante para una clínica local):
    crear/reclamar el perfil en https://business.google.com con la dirección, teléfono,
    horario, fotos y servicios. Esto es lo que más rápido trae pacientes cerca de Miami.
