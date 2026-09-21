@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.masterhealthcarecenter.com/sitemap.xml
+Sitemap: https://www.masterhealthcaremiami.com/sitemap.xml

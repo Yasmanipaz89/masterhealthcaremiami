@@ -50,7 +50,7 @@ Otros pendientes de confirmar:
 - [ ] **Horario real** de oficina
 - [ ] **Seguros aceptados** (Medicaid / Medicare / privados) — importante para SEO y captación
 - [ ] **Proveedores** reales (nombres, credenciales, idiomas, bio y foto)
-- [ ] ¿Usar el **dominio** `masterhealthcarecenter.com` u otro? (ver más abajo)
+- [ ] ¿Usar el **dominio** `masterhealthcaremiami.com` u otro? (ver más abajo)
 - [ ] Coordenadas GPS exactas del `geo` en el schema (ahora son aproximadas)
 
 ## ⚠️ Privacidad / HIPAA (importante)
@@ -76,9 +76,9 @@ IntakeQ, o un endpoint propio con BAA). El código está aislado en `assets/js/m
 - HTML semántico, rápido, **responsive** (móvil), accesible.
 
 ### Pasos para SALIR EN GOOGLE (hacer después de publicar)
-1. **Comprar dominio** (ej. `masterhealthcarecenter.com`) y **publicar** el sitio
+1. **Comprar dominio** (ej. `masterhealthcaremiami.com`) y **publicar** el sitio
    (Netlify, Vercel, Hostinger o GoDaddy — gratis/barato). Actualizar todas las URLs
-   `https://www.masterhealthcarecenter.com/` en `index.html`, `sitemap.xml`, `robots.txt`.
+   `https://www.masterhealthcaremiami.com/` en `index.html`, `sitemap.xml`, `robots.txt`.
 2. **Google Business Profile** (lo más importante para una clínica local):
    crear/reclamar el perfil en https://business.google.com con la dirección, teléfono,
    horario, fotos y servicios. Esto es lo que más rápido trae pacientes cerca de Miami.
